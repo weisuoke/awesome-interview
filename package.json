@@ -1,0 +1,25 @@
+{
+  "name": "awesome-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dumi dev --port=8030",
+    "build": "dumi build",
+    "deploy": "bash ./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/awesome-interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/awesome-interview/issues"
+  },
+  "homepage": "https://github.com/weisuoke/awesome-interview#readme",
+  "devDependencies": {
+    "dumi": "^1.0.31"
+  }
+}
