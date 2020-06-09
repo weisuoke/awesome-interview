@@ -4,4 +4,10 @@ export default {
   resolve: {
     previewLangs: []
   },
+  navs: [
+    {
+      title: 'js面试题',
+      path: '/js'
+    }
+  ]
 }
